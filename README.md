@@ -24,16 +24,16 @@
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 |2023-11-06 21:39:09|
 | [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ |2023-08-19 15:56:14|
 | [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 |2024-01-30 20:09:34|
-| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-12-26 10:01:43|
+| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2024-03-19 13:03:00|
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2024-02-24 09:39:16|
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2024-03-19 12:40:26|
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2023-12-21 16:53:28|
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-10-22 23:13:21|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2024-03-09 21:12:42|
+| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |仓库已失效|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
@@ -81,7 +81,7 @@
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-01-02 12:58:32|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
-| [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2024-02-19 09:41:37|
+| [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2024-03-19 10:23:18|
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 |2022-07-23 13:23:55|
 | [今日运势多合一](https://github.com/SonderXiaoming/portune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 融合了原神，pcr，东方，赛马娘四个主题 |2022-12-01 10:20:58|
@@ -104,10 +104,10 @@
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-12-08 08:58:52|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2023-08-31 17:23:41|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2024-03-12 10:52:58|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2024-03-17 19:44:38|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
-| [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
+| [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) <!--cont.-->| [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
 | [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2024-02-27 11:09:08|
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
 | [补偿轴计算器](https://github.com/OREOCODEDEV/pcr_time_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算返还时间下对应的时间轴 |2022-05-19 01:48:05|
