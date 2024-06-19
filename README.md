@@ -108,7 +108,7 @@
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
-| [yobot魔改版](https://github.com/eggggi/yobot_remix) <!--cont.-->| [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2024-05-28 10:22:16|
+| [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2024-05-28 10:22:16|
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
 | [补偿轴计算器](https://github.com/OREOCODEDEV/pcr_time_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算返还时间下对应的时间轴 |2022-05-19 01:48:05|
 | [计算器](https://github.com/OREOCODEDEV/bot_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算群聊中的四则运算消息 |2022-04-30 14:28:51|
@@ -122,7 +122,7 @@
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
 | [麻将猜手牌](https://github.com/yuyumoko/mahjong-hand-guess) | [@yuyumoko](https://github.com/yuyumoko) | 麻将猜手牌小游戏~ |2022-05-24 03:26:28|
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
-| [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 |2022-12-20 17:22:39|
+| [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 |2024-06-11 22:07:04|
 | [反广告插件-GGNMSL](https://github.com/Akagicv/GGNMSL) | [@Akagi_cv](https://github.com/Akagicv) | 基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。 |2022-09-29 19:43:20|
 | [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) | [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |2022-03-11 09:43:22|
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2024-04-30 10:43:04|
@@ -164,7 +164,7 @@
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
-| [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
+| [autocb](https://github.com/yoooowi/pcr_autocb) <!--cont.-->| [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2022-06-13 10:59:49|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
