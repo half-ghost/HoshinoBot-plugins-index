@@ -77,7 +77,7 @@
 | [Ai绘图/以图绘图](https://github.com/CYDXDianXian/AI_image_gen) | [@穿越电线](https://github.com/CYDXDianXian) [@sanshanya](https://github.com/sanshanya) | 通过tag生成图片，以图生图，XP查询，每日上限与频率限制，群黑/白名单，自动屏蔽超级大群，设置屏蔽词tag等功能 |2022-11-21 15:19:44|
 | [ai绘图安全版](https://github.com/jiyemengmei/AI_Draw_safemode) | [@姬野梦美](https://github.com/jiyemengmei) | 通过上传图片参数至数据库，来实现快捷的图片预览、图片TAG获取、对应标签的ai图片生成等功能。 |2022-10-20 22:04:56|
 | [龙图检测](https://github.com/Mzmba/dragon_killer) | [@Mzmba](https://github.com/Mzmba) | 基于opencv的龙图检测插件，代码待优化 |2022-09-24 21:27:28|
-| [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2023-08-29 17:44:48|
+| [招募队友](https://github.com/Lanly109/teamup) <!--cont.-->| [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2023-08-29 17:44:48|
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2025-01-17 13:56:19|
 |[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
