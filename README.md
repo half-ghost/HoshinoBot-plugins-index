@@ -65,7 +65,7 @@
 | [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2023-01-26 05:28:47|
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
-| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) <!--cont.-->| [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2024-07-24 15:25:48|
+| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2024-07-24 15:25:48|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2024-05-12 11:44:30|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
@@ -118,7 +118,7 @@
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2025-04-02 14:26:13|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2025-02-26 15:30:42|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-04-02 14:53:11|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-04-11 10:15:20|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -165,7 +165,7 @@
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 |2022-06-19 10:06:19|
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |2022-02-16 22:27:41|
 | [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |2021-12-01 10:48:17|
-| [crazywords](https://github.com/zangxx66/crazywordsForHoshinoBot) | [@zangxx66](https://github.com/zangxx66) | 疯言疯语生成器，灵感来源[@Vieww](https://github.com/Vieww) |2021-11-23 23:33:44|
+| [crazywords](https://github.com/zangxx66/crazywordsForHoshinoBot) <!--cont.-->| [@zangxx66](https://github.com/zangxx66) | 疯言疯语生成器，灵感来源[@Vieww](https://github.com/Vieww) |2021-11-23 23:33:44|
 | [闲聊反并发工具](https://github.com/lhhxxxxx/hoshino_tool) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发 |2021-11-19 19:58:53|
 | [genshin_price](https://github.com/lhhxxxxx/genshin_price) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 查询账号估价 |2021-11-20 21:44:46|
 | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi) | [@mahosho](https://github.com/mahosho) | img\n要我一直img吗 |2022-02-13 05:57:12|
